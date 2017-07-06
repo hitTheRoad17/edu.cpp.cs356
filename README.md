@@ -1,1 +1,1 @@
-# edu.cpp.cs356
+# iVote Simulator
